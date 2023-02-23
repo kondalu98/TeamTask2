@@ -1,0 +1,21 @@
+[India vs England, India vs srilanka, India vs Pakistan, India vs Newzealand, England vs srilanka, England vs Pakistan, England vs Newzealand, srilanka vs Pakistan, srilanka vs Newzealand, Pakistan vs Newzealand]
+India
+Winning  0
+Lossing  4
+################
+England
+Winning  2
+Lossing  2
+################
+srilanka
+Winning  3
+Lossing  1
+################
+Pakistan
+Winning  4
+Lossing  0
+################
+Newzealand
+Winning  1
+Lossing  3
+################
